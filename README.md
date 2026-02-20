@@ -179,7 +179,7 @@ Ensure your API key is set in `~/.openclaw/openclaw.json` under `skills.entries.
 
 ### "Rate limit exceeded"
 
-Last.fm allows 5 requests per second. Wait a moment and try again.
+Last.fm allows 5 requests/second. Wait a moment and try again.
 
 ### "Authentication failed for write operations"
 
